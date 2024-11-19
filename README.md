@@ -15,7 +15,5 @@ And i am interested in the languages (no particular order):
 >
 > Rust
 
-I love opensource and I have challenged myself to make my first pull request this year
-
 # Contact me
-You can contact me via [e-mail](mailto:pizzaboytjuh@gmail.com)
+You can contact me via [e-mail](mailto:pizzaboytjuh@gmail.com) (No guarantees I'll reply) or via Discord: @naaktmolratje (More likely to respond)
